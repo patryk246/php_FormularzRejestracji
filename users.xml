@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+ <user>
+ <username>admin</username>
+ <passwd>admin</passwd>
+ <fullname>Administrator</fullname>
+ <email>admin@gmail.com</email>
+ <date>01-11-2019</date>
+ <status>2</status>
+ </user>
+<user><username>asd</username><passwd>asd</passwd><fullnamename>Asd Asd</fullnamename><email>asd@asd.asd</email><date>07-10-2020</date><status>1</status></user><user><username>asd</username><passwd>asd</passwd><fullnamename>Asd Asd</fullnamename><email>asd@asd.asd</email><date>07-10-2020</date><status>1</status></user></users>
